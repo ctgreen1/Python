@@ -1,3 +1,6 @@
+# Max Engine RPM program
+## Parsing through CAN data to print out all values of engine rpm, and find max value.
+
 import os
 import re
 
